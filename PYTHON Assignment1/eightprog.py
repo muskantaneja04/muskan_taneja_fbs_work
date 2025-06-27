@@ -1,3 +1,4 @@
+#convert days into years, weeks and days.
 days=int(input("enter no. of days:  "))
 years=days//365
 days=days%365                          
