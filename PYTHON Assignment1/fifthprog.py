@@ -1,3 +1,4 @@
+#Calculate compound interest
 p=int(input("enter amount: "))
 t=int(input("enter time: "))
 r=float(input("rate of interest: "))
