@@ -1,3 +1,4 @@
+#find roots of quadratic equation
 a=int(input("Enter cofficient of a: "))
 b=int(input("Enter cofficient of b: "))
 c=int(input("Enter cofficient of c: "))
