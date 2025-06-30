@@ -1,0 +1,7 @@
+#sum of three digit number
+num=int(input("enter a 3-digit number: "))
+a=num%10
+num=num//10
+b=num%10
+c=num//10
+print("sum of number : ",a+b+c)
